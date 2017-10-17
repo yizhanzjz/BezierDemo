@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">BezierDemo</string>
+    <string name="rg_name">模式</string>
 </resources>
